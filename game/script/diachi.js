@@ -81,7 +81,7 @@ window.onload = function () {
 function yesClick() {
   if (window.confirm('Bạn giàu quá bao lẩu ik hmi')) 
 {
-window.location.href='/hpbdhh/game/game.html';
+window.location.href='/hpbhdhh/game/game.html';
 };
 }
 
